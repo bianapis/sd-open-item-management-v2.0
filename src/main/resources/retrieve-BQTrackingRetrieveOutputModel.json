@@ -1,0 +1,25 @@
+{
+  "trackingRetrieveActionResponse" : "trackingRetrieveActionResponse",
+  "trackingRetrieveActionTaskRecord" : {},
+  "trackingInstanceReport" : {
+    "trackingInstanceReportParameters" : "trackingInstanceReportParameters",
+    "trackingInstanceReportType" : "trackingInstanceReportType",
+    "trackingInstanceReport" : {},
+    "trackingInstanceReportRecord" : {}
+  },
+  "trackingInstanceAnalysis" : {
+    "trackingInstanceAnalysisReportType" : "trackingInstanceAnalysisReportType",
+    "trackingInstanceAnalysisReport" : {},
+    "trackingInstanceAnalysisRecord" : {},
+    "trackingInstanceAnalysisParameters" : "trackingInstanceAnalysisParameters"
+  },
+  "trackingRetrieveActionTaskReference" : "TRATR730201",
+  "trackingInstanceRecord" : {
+    "customerBillingAddress" : "customerBillingAddress",
+    "customerBillingParty" : "customerBillingParty",
+    "customerBillingStatement" : "customerBillingStatement",
+    "customerBillingPeriod" : "customerBillingPeriod",
+    "customerBillingAmount" : "USD 250",
+    "customerBillingProcedureInstanceReference" : "780740"
+  }
+}

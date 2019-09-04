@@ -1,0 +1,16 @@
+{
+  "openItemProcedureRequestActionTaskReference" : "OIPRATR779389",
+  "requestRecordReference" : "RRR721260",
+  "cROpenItemProcedureInstanceRecord" : {
+    "productInstanceReference" : "752200",
+    "loanTerminationDate" : "09-22-2018",
+    "loanOutstandingBalance" : "loanOutstandingBalance",
+    "openItemDescription" : "openItemDescription",
+    "repaymentStatement" : "repaymentStatement",
+    "openItemType" : "openItemType",
+    "loanRepaymentSchedule" : "loanRepaymentSchedule",
+    "partyReference" : "795991"
+  },
+  "openItemProcedureRequestActionTaskRecord" : {},
+  "requestResponseRecord" : {}
+}

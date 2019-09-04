@@ -1,0 +1,15 @@
+{
+  "openItemProcedureUpdateActionTaskRecord" : {},
+  "cROpenItemProcedureInstanceRecord" : {
+    "productInstanceReference" : "736852",
+    "loanTerminationDate" : "09-22-2018",
+    "loanOutstandingBalance" : "loanOutstandingBalance",
+    "openItemDescription" : "openItemDescription",
+    "repaymentStatement" : "repaymentStatement",
+    "openItemType" : "openItemType",
+    "loanRepaymentSchedule" : "loanRepaymentSchedule",
+    "partyReference" : "736191"
+  },
+  "openItemProcedureUpdateActionTaskReference" : "OIPUATR725965",
+  "updateResponseRecord" : {}
+}

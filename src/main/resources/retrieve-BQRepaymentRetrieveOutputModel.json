@@ -1,0 +1,25 @@
+{
+  "repaymentRetrieveActionTaskReference" : "RRATR735608",
+  "repaymentInstanceReport" : {
+    "repaymentInstanceReportParameters" : "repaymentInstanceReportParameters",
+    "repaymentInstanceReportType" : "repaymentInstanceReportType",
+    "repaymentInstanceReport" : {},
+    "repaymentInstanceReportRecord" : {}
+  },
+  "repaymentRetrieveActionResponse" : "repaymentRetrieveActionResponse",
+  "cROpenItemProcedureInstanceRecord" : {
+    "productInstanceReference" : "793230",
+    "loanOutstandingBalance" : "loanOutstandingBalance",
+    "openItemDescription" : "openItemDescription",
+    "openItemType" : "openItemType",
+    "loanRepaymentSchedule" : "loanRepaymentSchedule",
+    "partyReference" : "765238"
+  },
+  "repaymentRetrieveActionTaskRecord" : {},
+  "repaymentInstanceAnalysis" : {
+    "repaymentInstanceAnalysisReportType" : "repaymentInstanceAnalysisReportType",
+    "repaymentInstanceAnalysisRecord" : {},
+    "repaymentInstanceAnalysisReport" : {},
+    "repaymentInstanceAnalysisParameters" : "repaymentInstanceAnalysisParameters"
+  }
+}

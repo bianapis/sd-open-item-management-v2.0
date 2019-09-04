@@ -1,0 +1,9 @@
+{
+  "openItemProcedureInstanceReference" : "OIPIR752062",
+  "openItemProcedureInitiateActionRecord" : {},
+  "cROpenItemProcedureInstanceRecord" : {
+    "repaymentStatement" : "repaymentStatement"
+  },
+  "openItemProcedureInitiateActionReference" : "OIPIAR798858",
+  "openItemProcedureInstanceStatus" : "openItemProcedureInstanceStatus"
+}
